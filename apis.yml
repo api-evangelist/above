@@ -1,8 +1,14 @@
 aid: above
 name: Above
-description: 'Above is a company surfaced as a portfolio company of norwest-venture-partners and added
-  to the API Evangelist network as a stub for enrichment. Sector: unknown. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Above (Above Security) is an AI-native insider risk management platform that detects
+  and investigates risky human and AI-agent activity across SaaS, identity, and endpoints. Rather than
+  flagging statistical anomalies, Above focuses on intent-based insider risk — understanding what a person
+  or AI agent was actually trying to do — and assembles investigation-ready narratives from behavioral
+  signal without invasive screen or keystroke content capture. Its platform pairs real-time user guidance
+  with AI investigative agents to catch data exfiltration, credential leaks, shadow and personal AI use,
+  custom GPT risk, and pre-departure flight-risk data theft. Above is the inaugural sponsor of the Forscie
+  Insider Threat Matrix and publishes the Insider Risk Index. The company is backed by Norwest Venture
+  Partners and was added to the API Evangelist network from that portfolio.'
 url: https://raw.githubusercontent.com/api-evangelist/above/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +16,32 @@ x-backed-by:
 - norwest-venture-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
 modified: '2026-07-17'
+image: https://cdn.prod.website-files.com/699df2b55cbab42f73c59aa8/69c521dd7378408187a5d19d_1200%C3%97630.jpg
 tags:
 - Company
-- Unknown
+- Security
+- Cybersecurity
+- Insider Risk
+- Insider Threat
+- Data Loss Prevention
+- Artificial Intelligence
+- AI Agents
+- Identity
+- SaaS Security
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +49,22 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/above-domain-security.yml
 - type: Website
-  url: https://above.security
+  url: https://www.above.security
+- type: Blog
+  url: https://www.above.security/blog
+- type: PrivacyPolicy
+  url: https://www.above.security/privacy-policy
+- type: Integrations
+  url: https://www.above.security/integrations
+- type: Demo
+  url: https://www.above.security/get-a-demo
+- type: LLMsTxt
+  url: llms/above-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

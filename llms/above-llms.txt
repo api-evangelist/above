@@ -1,0 +1,34 @@
+# Above Security
+
+> Above is an AI-native insider risk platform that detects and investigates risky human and AI-agent activity across SaaS, identity, and endpoints — turning weeks of alert correlation into investigation-ready narratives, without invasive content capture.
+
+Above focuses on intent-based insider risk: understanding what a person or AI agent was actually trying to do, not just flagging statistical anomalies. It is endpoint- and SaaS-native, privacy-aware (it captures behavioral signal rather than screen/keystroke content), and built for teams drowning in DLP and UEBA noise. Above is the inaugural sponsor of the Forscie Insider Threat Matrix and publishes the Insider Risk Index (insiderisk.io).
+
+## Product
+- [Real-time guidance](https://www.above.security/platform/real-time-guidance): In-the-moment user coaching that prevents risky actions before they happen.
+- [AI investigative agents](https://www.above.security/investigative-agents): AI agents that assemble investigation-ready narratives from behavioral signal.
+- [Integrations](https://www.above.security/integrations): How Above connects to your existing security and identity stack.
+
+## Use cases
+- [Insider risk use cases](https://www.above.security/use-case): Overview of the scenarios Above covers.
+- [Malicious insider](https://www.above.security/malicious-insider): Detecting and investigating intentional insider data theft and sabotage.
+- [Pre-departure / flight-risk data theft](https://www.above.security/pre-departure): Catching data exfiltration before a resignation.
+- [Credential leaks](https://www.above.security/credential-leaks): Detecting leaked and misused credentials.
+- [Shadow and personal AI use](https://www.above.security/personal-ai): Visibility into employees pasting sensitive data into personal AI tools.
+- [Custom GPTs](https://www.above.security/custom-gpt): Risk from custom GPTs and unsanctioned AI assistants.
+- [Agentic AI risk](https://www.above.security/agentic-ai): Monitoring autonomous AI agents that hold credentials and act on a user's behalf.
+
+## Research and education
+- [Above blog](https://www.above.security/blog): Analysis on insider risk, AI-agent risk, and modern investigation.
+- [Insider Risk Index](https://insiderisk.io): Free insider-risk assessment and peer benchmarking, backed by Ponemon, Gartner, and Verizon research.
+- [Insider Threat Matrix](https://insiderthreatmatrix.org): The Forscie threat matrix that Above is the inaugural sponsor of.
+
+## Customer stories
+- [AlphaSense](https://www.above.security/case-study-alphasense)
+- [Merlin](https://www.above.security/case-study-merlin)
+- [BigID](https://www.above.security/case-study-bigid)
+- [Temco](https://www.above.security/case-study-temco)
+
+## Company
+- [About Above](https://www.above.security/about-us): Company background and mission.
+- [Get a demo](https://www.above.security/get-a-demo): Request a live demonstration.
